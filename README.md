@@ -31,7 +31,7 @@ The following Excel Features were incorporated
 
 
 ## Visualization 
-![](https://github.com/Dee-Oyinda/Nyc-Collision-Analysis/blob/main/Screenshot%202025-06-09%20183246.png)
+![](Dashboard_image.png)
 
 ## Analysis & Findings
 
@@ -40,7 +40,7 @@ The following Excel Features were incorporated
   
 - Finding: A significant rise of 10.53% collision rate was observed in March. Which was an 18.56% increase in accident compared to February
 
-  ### Peak Times for Accidents
+### Peak Times for Accidents
 - Analysis: Accident frequency was analyzed across both the day of the week and the hour of the day.
   
 - Finding: Accident frequency peaked on during the weekend specifically between 2 PM and 8 PM. This highlights the risk associated with peak commuter traffic. The single most frequent time for accidents was Friday at 4 PM.
@@ -55,10 +55,10 @@ The following Excel Features were incorporated
 
 - Finding (All Accidents): The most common contributing factor for all collisions was Driver Inattention/Distraction. This suggests that driver behavior is a leading cause of accidents.
   
-- Finding (Fatal Accidents): For fatal accidents specifically, the most common contributing factor was Unsafe Speed. This indicates that while distraction causes many accidents, other, more dangerous behaviors are more likely to lead to fatalities.
+- Finding (Fatal Accidents): For Fatal accidents specifically, the most common contributing factors were Unspecified and Unsafe Speed. This indicates that while distraction causes many accidents, other, more dangerous behaviors are more likely to lead to fatalities.
 
 
-You can Interact with the the final Excel workbook [HERE](https://docs.google.com/spreadsheets/d/11sy-rX3AA-7_bFzb8sVUFlA_wfEd2EDf/edit?usp=sharing&ouid=113899812595520572790&rtpof=true&sd=true)
+You can Interact with the the final Excel workbook [HERE](https://drive.google.com/file/d/1-X170Ko21bMYIzfRikaq26XcebrMGHTy/view)
 
 ## Recommendations
 
