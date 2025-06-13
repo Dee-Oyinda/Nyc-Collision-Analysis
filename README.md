@@ -71,7 +71,10 @@ Based on the analysis, the following actions are recommended to enhance road saf
 - Develop separate, more impactful messages around the leading causes of fatal accidents, such as unsafe speed, to highlight the life-threatening consequences of such behavior.
 
 
-### Connect with me via my [LinkedIn](www.linkedin.com/in/oyindamola-ayeni)
+### Data Source: NYC OpenData (Motor Vehicle Collisions) 
+Provided by Digitaley Drive(Bootcamp)
+
+Connect with me via my [LinkedIn](www.linkedin.com/in/oyindamola-ayeni)
 
 
 
